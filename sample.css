@@ -1,0 +1,43 @@
+ul{
+    color:purple;
+    font-size: 20px;
+    line-height:22px;
+    letter-spacing: 1px;
+}
+html{
+    background-color: rgb(152, 180, 180);
+}
+body{
+    background-color: #FF9500;
+    margin:0 auto;
+}
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  img{
+      display:block;
+      margin:auto;
+      border:10px dotted blue;
+      background-color: #00539F;
+      padding: 10px;
+  }
+  #btn1{
+ background-color:rebeccapurple;
+ font-size:20px;
+ padding:12px 28px;
+ border-radius:50%;
+ width:150px;
+  }
+  #btn2{
+    background-color:rebeccapurple;
+    font-size:20px;
+    padding:12px 28px;
+    border-radius:16px;
+    width:200px;
+    margin-left: 55px;
+     }
